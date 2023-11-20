@@ -4,7 +4,7 @@
 
 Fan Zhang
 <fzhang32@stevens.edu>
-the URL of your public GitHub repo: 
+the URL of your public GitHub repo: <https://github.com/fanzhang01/CS515-Project-1>
 an estimate of how many hours you spent on the project: 64hrs
 
 any bugs or issues you could not resolve: No
